@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Frontline Squadron</string>
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="buttonSelectPhoto">Gallery</string>
+    <string name="buttonTakePhoto">Camera</string>
+    <string name="buttonDiagnose">Detect</string>
+    <string name="defaultImage">Results will be displayed here</string>
+    <string name="descriptionImage">View for displaying image</string>
+</resources>
